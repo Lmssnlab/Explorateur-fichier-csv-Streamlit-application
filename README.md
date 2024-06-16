@@ -1,3 +1,4 @@
+[Lien de l'application streamlit](https://appstream-ac6ngxccdsdzynhzbeexhr.streamlit.app/)
 
 # Explorateur de fichiers CSV
 
@@ -46,4 +47,4 @@ Ce projet est sous licence [MIT](LICENSE).
 
 Pour toute question ou suggestion, n'hésitez pas à me contacter à lmasson04pro@gmail.com
 
-Ce fichier README fournit une description claire du projet, des instructions d'installation et d'utilisation, une liste des fonctionnalités, des informations sur la contribution et les coordonnées pour le support. Il suit les bonnes pratiques recommandées et s'inspire des exemples fournis.
+
