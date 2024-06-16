@@ -1,4 +1,3 @@
-Voici les informations essentielles à inclure dans un fichier README pour le code Python fourni, en m'inspirant des exemples et des bonnes pratiques :
 
 # Explorateur de fichiers CSV
 
