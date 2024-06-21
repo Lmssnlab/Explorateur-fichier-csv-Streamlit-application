@@ -39,9 +39,7 @@ Les contributions sont les bienvenues ! Si vous souhaitez améliorer ce projet, 
 4. Pousser vers la branche (`git push origin feature/NouveauteCaracteristique`)
 5. Ouvrir une Pull Request
 
-## Licence
 
-Ce projet est sous licence [MIT](LICENSE).
 
 ## Contact
 
